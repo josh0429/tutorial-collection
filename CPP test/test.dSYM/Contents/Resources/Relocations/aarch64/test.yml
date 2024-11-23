@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/tosh/Documents/Codes/Practice folder/CPP test/test'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z5gpdEuddd, symObjAddr: 0x0, symBinAddr: 0x1000031EC, symSize: 0x4CC }
+  - { offsetInCU: 0x4932, offset: 0x4932, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB7v160006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0xB58, symBinAddr: 0x100003D44, symSize: 0x58 }
+  - { offsetInCU: 0x4972, offset: 0x4972, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB7v160006INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0xC34, symBinAddr: 0x100003E20, symSize: 0x2C }
+  - { offsetInCU: 0x51B1, offset: 0x51B1, size: 0x8, addend: 0x0, symName: __Z3powB7v160006IdiENSt3__19enable_ifIXaasr3std13is_arithmeticIT_EE5valuesr3std13is_arithmeticIT0_EE5valueENS0_9__promoteIS2_S3_vEEE4type4typeES2_S3_, symObjAddr: 0x4CC, symBinAddr: 0x1000036B8, symSize: 0x38 }
+  - { offsetInCU: 0x733D, offset: 0x733D, size: 0x8, addend: 0x0, symName: __Z5gpdEuddd, symObjAddr: 0x0, symBinAddr: 0x1000031EC, symSize: 0x4CC }
+  - { offsetInCU: 0x7515, offset: 0x7515, size: 0x8, addend: 0x0, symName: __Z5gpdHuddd, symObjAddr: 0x504, symBinAddr: 0x1000036F0, symSize: 0x5E0 }
+  - { offsetInCU: 0x76FD, offset: 0x76FD, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xAE4, symBinAddr: 0x100003CD0, symSize: 0x48 }
+  - { offsetInCU: 0x77C3, offset: 0x77C3, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB7v160006EPFRS3_S4_E, symObjAddr: 0xB2C, symBinAddr: 0x100003D18, symSize: 0x2C }
+  - { offsetInCU: 0x77F5, offset: 0x77F5, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE5widenB7v160006Ec, symObjAddr: 0xBB0, symBinAddr: 0x100003D9C, symSize: 0x84 }
+  - { offsetInCU: 0x7861, offset: 0x7861, size: 0x8, addend: 0x0, symName: __ZNKSt3__15ctypeIcE5widenB7v160006Ec, symObjAddr: 0xC60, symBinAddr: 0x100003E4C, symSize: 0x38 }
+...
